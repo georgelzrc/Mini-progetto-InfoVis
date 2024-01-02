@@ -6,3 +6,6 @@ We will create a drawing area and sketch 10 flower silhouettes on it. Subsequent
 Upon pressing the 'right arrow' key, the butterflies will smoothly swap positions, flying to another flower and arranging themselves according to the second permutation. Pressing the 'right arrow' key again will trigger another smooth transition to the third permutation, and so forth. After reaching the last permutation, pressing 'right arrow' will loop back to the first.
 
 Conversely, pressing the 'left arrow' key will smoothly move the butterflies back to their previous positions, transitioning from the first permutation to the last. The position changes of the butterflies will be accompanied by fluid animations for a seamless visual experience.
+
+![Butterfly Gif](https://github.com/georgelzrc/Mini-progetto-InfoVis/assets/91905077/e542c96d-8ae1-48df-95ae-7c44cd26263a)
+
