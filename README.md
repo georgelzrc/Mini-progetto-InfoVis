@@ -1,4 +1,4 @@
-# Butterfly On Flowers
+# Butterflies On Flowers
 Mini-project for university course "Information Visualization".
 
 We will create a drawing area and sketch 10 flower silhouettes on it. Subsequently, a JSON file will be generated with a predetermined number of permutations for the numbers from zero to nine. Using this dataset, they will draw 10 butterflies, each in a different color, positioned above the 10 flowers.
